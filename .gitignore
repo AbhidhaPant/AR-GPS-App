@@ -1,0 +1,13 @@
+.htaccess
+css.php
+rpc/
+sites/site*/admin/
+sites/site*/private/
+sites/site*/public/admin/
+sites/site*/public/setup/
+sites/site*/public/theme/
+textpattern/
+HISTORY.txt
+README.txt
+/Library/PackageCache/com.ptc.vuforia.engine@9.3.3/Vuforia/Plugins
+Library/ArtifactDB
